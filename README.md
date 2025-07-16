@@ -1,10 +1,6 @@
 <h1 align="center">💘 Companion Matcher</h1>
 
 <p align="center">
-  A fun and simple dating-style web app to help people find their perfect match based on shared interests!
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react&style=for-the-badge">
   <img src="https://img.shields.io/badge/Backend-Node.js-green?logo=node.js&style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
