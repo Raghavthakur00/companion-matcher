@@ -80,3 +80,10 @@ npm start
   "age": 21,
   "interests": ["reading", "travel", "fitness"]
 }
+
+### 🔍 GET /matches/:name
+Get users who share 2+ interests with :name
+
+### ❌ DELETE /users/:name
+Remove a user by name
+
