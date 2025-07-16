@@ -15,7 +15,6 @@
 
 ## 📁 Project Repository Overview
 
-Your examiner can easily find all files here:
 
 companion-matcher/
 ├── frontend/ ← React frontend code
