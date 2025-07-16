@@ -1,0 +1,65 @@
+.match-list {
+  text-align: center;
+  padding: 20px;
+  color: #fff;
+}
+
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.match-card {
+  background: #fff;
+  color: #333;
+  padding: 20px;
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.match-card h3 {
+  margin: 0 0 10px;
+  color: #e91e63;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.connect-btn {
+  background-color: #e91e63;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  flex: 1;
+  margin-right: 5px;
+}
+
+.connect-btn:hover {
+  background-color: #d81b60;
+}
+
+.remove-btn {
+  background-color: #ff5252;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  flex: 1;
+  margin-left: 5px;
+}
+
+.remove-btn:hover {
+  background-color: #e53935;
+}
